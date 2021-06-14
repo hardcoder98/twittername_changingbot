@@ -1,2 +1,2 @@
 # twittername_changingbot
-This can change the name(not username) of the specified Twitter profile (you'll need consumer key, consumer secret key, access token key, access token secret key).
+A Twitter bot which can change name, username for your twitter account given that you've all the API keys. 
